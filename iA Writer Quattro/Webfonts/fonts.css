@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "iA Writer Quattro";
+  font-family: "iA Writer Quattro S";
   font-weight: normal;
   font-style: normal;
   src: url("iAWriterQuattroS-Regular.eot") format("embedded-opentype"),
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-  font-family: "iA Writer Quattro";
+  font-family: "iA Writer Quattro S";
   font-weight: normal;
   font-style: italic;
   src: url("iAWriterQuattroS-Italic.eot") format("embedded-opentype"),
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-  font-family: "iA Writer Quattro";
+  font-family: "iA Writer Quattro S";
   font-weight: bold;
   font-style: normal;
   src: url("iAWriterQuattroS-Bold.eot") format("embedded-opentype"),
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-  font-family: "iA Writer Quattro";
+  font-family: "iA Writer Quattro S";
   font-weight: bold;
   font-style: italic;
   src: url("iAWriterQuattroS-BoldItalic.eot") format("embedded-opentype"),
